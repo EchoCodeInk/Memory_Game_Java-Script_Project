@@ -1,1 +1,6 @@
-# Memory_Game_React_Project
+# README #
+
+-Equipe:
+
+-Evan Cholette
+-Saliou Thiongane
