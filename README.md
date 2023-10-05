@@ -1,6 +1,5 @@
 
 # Memory Game
-
 ![image](https://github.com/EchoCodeInk/Memory_Game_Java-Script_Project/assets/143127630/8236caa0-b99f-422e-81d0-2a6017c677a6)
 
 
@@ -50,5 +49,5 @@ To enjoy Memory Challenge on your device, follow these simple steps:
 
 ## Contributors
 
-- [Evan Cholette](https://github.com/EchoCodeInk)- Developer
+- [Evan Cholette](https://github.com/EchoCodeInk) - Developer
 - [Saliou Thiongane] - Developer
