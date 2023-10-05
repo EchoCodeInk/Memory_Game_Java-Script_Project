@@ -1,7 +1,7 @@
 
 # Memory Game
 
-![![image](https://github.com/EchoCodeInk/Memory_Game_Java-Script_Project/assets/143127630/8236caa0-b99f-422e-81d0-2a6017c677a6)
+![image](https://github.com/EchoCodeInk/Memory_Game_Java-Script_Project/assets/143127630/8236caa0-b99f-422e-81d0-2a6017c677a6)
 
 
 Welcome to Memory Challenge, an engaging memory game where you can test and enhance your memory skills while having fun.
@@ -52,21 +52,3 @@ To enjoy Memory Challenge on your device, follow these simple steps:
 
 - [Evan Cholette](https://github.com/EchoCodeInk)- Developer
 - [Saliou Thiongane] - Developer
-
-
-Feel free to use this README as a starting point for your Memory Challenge project and customize it to match your specific project details and requirements.
-
-
-
-
-
-
-
-
-
-# README #
-
--Equipe:
-
--Evan Cholette
--Saliou Thiongane
